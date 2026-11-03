@@ -36,8 +36,8 @@ export default function Hero() {
           transition={{ duration: 2.4, ease: [0.16, 1, 0.3, 1] }}
         >
           <Image
-            src="/images/hero-harrier.jpg"
-            alt="An orange Tata Harrier photographed against a dark studio wall."
+            src="/images/coverpic.webp"
+            alt="A classic car partially covered in a warmly lit garage."
             fill
             priority
             sizes="100vw"
