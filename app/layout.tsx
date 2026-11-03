@@ -27,6 +27,7 @@ const dmMono = DM_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://dream-garage-flax.vercel.app"),
   title: "DREAM GARAGE — Some dreams are built on wheels",
   description:
     "A personal automotive collection. Seven machines. One dream garage. Established 16.11.24.",
