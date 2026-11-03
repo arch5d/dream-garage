@@ -36,12 +36,12 @@ export default function Hero() {
           transition={{ duration: 2.4, ease: [0.16, 1, 0.3, 1] }}
         >
           <Image
-            src="/images/hero-mclaren-gt.jpg"
-            alt="A silver McLaren GT photographed in warm evening light."
+            src="/images/hero-harrier.jpg"
+            alt="An orange Tata Harrier photographed against a dark studio wall."
             fill
             priority
             sizes="100vw"
-            className="image-hero object-cover object-[61%_58%] md:object-[center_55%]"
+            className="image-hero object-cover object-center"
           />
         </motion.div>
       </motion.div>

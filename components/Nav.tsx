@@ -46,7 +46,7 @@ export default function Nav() {
               DREAM GARAGE
             </span>
             <span className="micro-sm mt-1.5 hidden text-paper/55 sm:block">
-              A PERSONAL COLLECTION
+              A PERSONAL COLLECTION FOR VANSH
             </span>
           </a>
 

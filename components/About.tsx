@@ -20,8 +20,8 @@ export default function About() {
             <div className="md:sticky md:top-24">
               <div className="relative aspect-[4/3] overflow-hidden bg-ink md:aspect-[4/5]">
                 <Image
-                  src="/images/about-mclaren.jpg"
-                  alt="A blue McLaren GT on gravel in low evening light."
+                  src="/images/about-mclaren-evening.jpg"
+                  alt="A silver McLaren GT photographed in warm evening light."
                   fill
                   sizes="(min-width: 768px) 40vw, 100vw"
                   className="image-night object-cover"
@@ -56,18 +56,17 @@ export default function About() {
             <Reveal delay={0.18} className="mt-10 max-w-xl">
               <div className="space-y-5 text-sm leading-[1.95] text-paper/60 md:text-[15px]">
                 <p>
-                  Some people count cars. I count the moments they make. The
-                  first mile after a wash. The empty road at six in the morning.
-                  The detour that turns ten minutes into an hour.
+                  Not to the count of cars. But to the count of moments we'll make. The
+                  first mile. The empty road at six in the morning.
+                  The detour to the ice cream shop. The speed drives at 2 a.m.
                 </p>
                 <p>
-                  Seven machines. One garage. A lifetime of reasons to take the
-                  long way home.
+                  A lifetime of reasons to take the long way home.
                 </p>
               </div>
 
               <blockquote className="mt-10 border-l border-coffee/70 pl-5 font-display text-2xl italic leading-[1.25] text-paper/85 md:text-[2rem]">
-                “The best roads are the ones you didn&apos;t plan.”
+                “The best roads are the ones travelled together.”
               </blockquote>
             </Reveal>
 
@@ -94,7 +93,7 @@ export default function About() {
               </div>
 
               <p className="micro mt-12 text-paper/35">
-                A COLLECTION, BUILT SLOWLY.
+                A COLLECTION BUILT SLOWLY.
               </p>
             </Reveal>
           </div>

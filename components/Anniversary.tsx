@@ -67,8 +67,8 @@ export default function Anniversary() {
               The day the garage became home.
             </p>
             <p className="mx-auto mt-6 max-w-xl text-sm leading-[1.9] text-stone">
-              Some anniversaries are marked by candles. Ours is marked by seven
-              engines, one garage, and every road still waiting.
+              I hope our anniversary is marked by not just candles, but by seven
+              engines, a dream fulfilled, and roads still waiting.
             </p>
           </Reveal>
         </div>

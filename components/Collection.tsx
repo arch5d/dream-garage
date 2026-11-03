@@ -54,9 +54,8 @@ export default function Collection() {
             delay={0.16}
           >
             <p className="max-w-sm text-sm leading-[1.85] text-stone">
-              Seven cars. Seven distinct personalities. One shared address. A
-              personal index of the machines that turn ordinary roads into
-              somewhere worth going.
+              "There's a lot of stress in life. But once you sit in a car, a lot of it goes out the window."
+              <br></br>~Dan Brown
             </p>
             <div className="flex items-center gap-3">
               <span className="h-px w-9 bg-ink/25" />
